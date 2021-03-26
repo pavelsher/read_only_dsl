@@ -6,6 +6,7 @@ version = "2020.2"
 project {  
   
   buildType{
+    id("Hello")
     name = "Hello"
 
     steps {

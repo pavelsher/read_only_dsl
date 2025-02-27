@@ -11,7 +11,7 @@ project {
 
     steps {
         script {
-            scriptContent = "Hello world!"
+            scriptContent = "Hello world!!!"
         }
     }
   }

@@ -7,7 +7,7 @@ project {
   
   buildType{
     id("Hello")
-    name = "Hello 6"
+    name = "Hello 222"
 
     steps {
         script {
